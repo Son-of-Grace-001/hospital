@@ -7,11 +7,9 @@ import {Home} from './component/Home'
 function App() {
   return (
     <div className="App">
-      <Routes>
-        <Route path="/" element={<Home/>}/>
-      </Routes>
+      <Home/>
     </div>
   );
 }
 
-export default App;
+export default A
