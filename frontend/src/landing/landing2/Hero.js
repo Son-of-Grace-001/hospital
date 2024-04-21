@@ -12,7 +12,7 @@ function Hero () {
           </div>
         </div>
         <div className='rightt'>
-          <h1 className='hero-welcome'><span className='to'>Welcome to</span> <br/> <span className='med'>MedVault <span className='to'>Healthcare-providers</span> Assistant</span></h1>
+          <h1 className='hero-welcome'><span className='to'>Welcome to</span> <span className='med'>Med</span><span className='to'>Vault</span> <br/> <span className='med'>Healthcare-providers</span> <span className='to'>Assistant</span></h1>
           <p className='med-text'>
             Your all-in-one solution for managing patient 
             records efficiently and securely. Streamline your 

@@ -45,8 +45,8 @@ function Nav () {
         </div>
 
         <div className="third">
-          <button className="btn btn-primary" >Login</button>
-          <button  className="btn btn-light" >SignUp</button>
+          <button id='btn' className="btn btn-primary" >Login</button>
+          <button className="btn btn-light" >SignUp</button>
         </div>
         <div className='div'>
           {isMenuOpen ? (

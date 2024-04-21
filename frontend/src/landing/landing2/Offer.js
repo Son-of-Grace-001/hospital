@@ -4,7 +4,8 @@ import {FaAmbulance, FaFileMedical, FaAccessibleIcon, FaRocket, FaLock} from 're
 
 function Offer () {
   return(
-    <div>
+    <div id='service'>
+      <h3 className='offer'> What we offer </h3>
       <div className='section'>
         <div>
           <FaAmbulance size={100} color={'#b9b9b9'}/>
